@@ -3,7 +3,7 @@ import java.util.HashMap;
 public class Histogram {
 
 	private HashMap<Integer,Integer> bins;
-	
+	//count
 	public  void addScore(Integer score){
 
 		if(score >= 1 && score <= 10)
