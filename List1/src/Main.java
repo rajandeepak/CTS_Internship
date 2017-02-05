@@ -7,7 +7,7 @@ public class Main {
 	
 
     private static void addToList(ArrayList<Integer> List){
-    	
+    	//code 
     	 ArrayList <Integer> newList = new ArrayList<>();
         double sum = 0.0;
          int n = List.size();
